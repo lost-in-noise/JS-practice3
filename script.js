@@ -47,3 +47,14 @@
 // // დარჩენილი ელემენტების რაოდენობის დაბეჭდვა
 // console.log("დარჩენილი ელემენტების რაოდენობა: " + fruits.length);
 
+
+// // 3.15
+// let array = [1, 2, 3, 4, 5];
+
+// let newElements = ['a', 'b', 'c'];
+
+// array.splice(3, 0, ...newElements);
+
+// console.log(array); // [1, 2, 3, 'a', 'b', 'c', 4, 5]
+
+
