@@ -76,3 +76,11 @@
 // compareNumbers(7, 7);   // Output: error
 
 
+// // 7.15
+// let array = [12, 25, 3, 6, 8, 14, 7, 23];
+
+// let newArray = array.map(item => item / 3);
+
+// console.log(newArray);
+
+
