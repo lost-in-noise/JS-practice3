@@ -58,3 +58,21 @@
 // console.log(array); // [1, 2, 3, 'a', 'b', 'c', 4, 5]
 
 
+// // 6.15
+
+// function compareNumbers(num1, num2) {
+//     if (num1 > num2) {
+//         console.log("num1 is the largest");
+//     } else if (num2 > num1) {
+//         console.log("num2 is the largest");
+//     } else {
+//         console.log("error");
+//     }
+// }
+
+// // პარამეტრებად გადაეცემა ორი რიცხვი
+// compareNumbers(10, 5);  // Output: num1 is the largest
+// compareNumbers(3, 8);   // Output: num2 is the largest
+// compareNumbers(7, 7);   // Output: error
+
+
