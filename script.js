@@ -18,7 +18,10 @@
 // myArray.pop();
 
 // // ახალი ელემენტების დაბეჭდვა
-// console.log("ახალი ელემენტები: " + myArray);
+// console.log(myArray);
+// // აქ ვერ მივხვდი წაშლილი ელემენტებიც უნდა გამომეტანა თუ მხოლოდ დარჩენილი ახალი ელემენტები?
+// let newElements = [myArray[0], myArray[myArray.length - 1]];
+// console.log("ახალი ელემენტები: " + newElements);
 
 
 // // 2.15
