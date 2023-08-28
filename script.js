@@ -84,3 +84,9 @@
 // console.log(newArray);
 
 
+// // 9.15
+// let array = [2, 15, 10, 24];
+
+// array.splice(2, 1);
+
+// console.log(array);
